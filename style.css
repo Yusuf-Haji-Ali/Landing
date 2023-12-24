@@ -7,6 +7,10 @@
   font-family: Inter;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 :root {
   --primary: #199cdb;
 }
